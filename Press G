@@ -1,0 +1,1 @@
+game:GetService("VirtualInputManager"):SendKeyEvent(true, "G", false, game)
